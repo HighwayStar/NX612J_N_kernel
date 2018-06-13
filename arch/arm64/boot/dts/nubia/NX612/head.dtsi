@@ -1,0 +1,16 @@
+/*
+ * nubia overwrite dts
+ */
+
+
+#include "others.dtsi"
+
+#include "camera.dtsi"
+#include "nfc.dtsi"
+#include "sensors.dtsi"
+#include "display.dtsi"
+#include "touch.dtsi"
+#include "vibrator.dtsi"
+#include "key.dtsi"
+#include "breathlight.dtsi"
+#include "fingerprint.dtsi"
